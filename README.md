@@ -5,7 +5,7 @@ Aluno: Henrique Nastari Corrêa.
 PASSOS PARA RODAR O TESTE:
 
  - Inicialize o projeto Node.js:
-    - git clone https://github.com/](https://github.com/Henrique-Nastari/AV2-GQS
+    - git clone https://github.com/Henrique-Nastari/AV2-GQS
     - cd minha-api
     - npm init -y
     - npm install mocha chai sinon --save-dev
